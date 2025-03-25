@@ -34,7 +34,7 @@
 * Komşular kontrol edilir ve yeni hesaplanan süre ile kuyruğa eklenir.
 * Hedef istasyona ulaşıldığında algoritma durur ve toplam yolculuk sürelerini hesaplar.
 
-## Neden BFS ve A*Kullanıldı
+## Neden BFS ve A* Kullanıldı
 
 * BFS : Her aktarmanın bir maliyeti olduğu varsayıldığında en az aktarmalı rotayı bulmak için idealdir.
 * A* : Zaman bazlı değerlendirme yaparak toplam yolculuk sürelerini optimize eder.
