@@ -20,7 +20,7 @@
 
 * Başlangıç istasyonu kuyruğa eklenir.
 * Kuyruktaki istasyon, komşuları ile kontrol edilir.
-* Eğer bir komşu istasyon hedef istasyon ile eşleşirse algoritma duru ve en uygun rota döndürülür.
+* Eğer bir komşu istasyon hedef istasyon ile eşleşirse algoritma durur ve en uygun rota döndürülür.
 * En az durak değiştirerek hedefe ulaşmak amaçlanır.
 
 ### A* Algoritması
